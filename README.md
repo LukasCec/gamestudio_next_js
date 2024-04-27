@@ -41,8 +41,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - LukasCec - lukascec@example.com
+LukasCec - lukascec@example.com
 
 Project Link: [https://github.com/LukasCec/GameStudio](https://github.com/LukasCec/GameStudio)
 
-Please note that this is a basic template for a README file. You may need to modify it according to your project's specific needs and requirements.
+
