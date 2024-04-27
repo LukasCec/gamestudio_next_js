@@ -1,4 +1,4 @@
-# Project Title: GameStudio - Next.js Implementation
+# GameStudio - Next.js Implementation
 
 This project is a Next.js implementation of the GameStudio game server. It is a web-based application that allows users to play various games and interact with each other.
 
