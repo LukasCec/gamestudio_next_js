@@ -13,7 +13,7 @@ export default function MainCard() {
             <div className="w-full sm:w-[50vh] md:w-[50vh] lg:w-[50vh] xl:w-[60vh] xl:h-[60vh] lg:h-[60vh] md:h-[60vh] sm:h-[60vh] h-[80vh] bg-white backdrop-blur-md backdrop-filter bg-opacity-20 rounded-xl shadow-lg p-6 z-10 mx-auto"> {/* Add mx-auto here */}
                 <h1 className="text-center text-white text-2xl font-bold">🏆Choose Your Game</h1>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4 justify-center items-center mx-auto ml-10 sm:ml-2.5 md:ml-3 lg:ml-3 xl:ml-10"> {/* Add mx-auto here */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4 justify-center  items-center mx-auto ml-8 sm:ml-2.5 md:ml-3 lg:ml-3 xl:ml-10"> {/* Add mx-auto here */}
 
 
                     <GameCard link="/games/nonogram/" name="Nonogram" imgLink={nonogramImage} />
